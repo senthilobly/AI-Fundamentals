@@ -44,6 +44,7 @@ This notebook is focused on practical uses of NumPy, the essential library for n
 - Jupyter Notebook or JupyterLab
 - Packages:
   - `numpy`
+  - 'matplotlib'
 
 You can install dependencies via:
 ```bash
